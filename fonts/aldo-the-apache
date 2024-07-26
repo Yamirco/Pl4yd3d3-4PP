@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Aldo the Apache';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Aldo the Apache'), url('https://codesuareztv.github.io/Fonts/AldotheApache.woff') format('woff');
+}
